@@ -42,7 +42,7 @@ It includes:
 - Debt Consolidation loans show the highest default rate among loan purposes.
 - Higher loan grades are associated with larger average loan amounts.
 
-- ##  Dashboard Preview
+ ##  Dashboard Preview
 ![Credit Risk Dashboard](Dashoard_preview.png)
 
 ## Files Included
