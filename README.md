@@ -43,9 +43,9 @@ It includes:
 - Higher loan grades are associated with larger average loan amounts.
 
 - ##  Dashboard Preview
-![Credit Risk Dashboard](Dashboard_Preview.png)
+![Credit Risk Dashboard](Dashoard_preview.png)
 
 ## Files Included
 - `Dashboard.pbix` – Interactive Power BI dashboard.
 - `Credit_Risk.xlsx` – Source dataset used for analysis.
-- `Dashboard_preview.png` – Dashboard screenshot.
+- `Dashhoard_preview.png` – Dashboard screenshot.
