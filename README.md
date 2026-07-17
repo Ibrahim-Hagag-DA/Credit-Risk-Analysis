@@ -42,4 +42,10 @@ It includes:
 - Debt Consolidation loans show the highest default rate among loan purposes.
 - Higher loan grades are associated with larger average loan amounts.
 
-- ## 📸 Dashboard Preview
+- ##  Dashboard Preview
+![Credit Risk Dashboard](Dashboard_Preview.png)
+
+## Files Included
+- `Dashboard.pbix` – Interactive Power BI dashboard.
+- `Credit_Risk.xlsx` – Source dataset used for analysis.
+- `Dashboard_preview.png` – Dashboard screenshot.
