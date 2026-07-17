@@ -1,8 +1,7 @@
 # Credit Risk Analysis Dashboard
 
 ##  Project Overview
-This project analyzes customer credit risk data using Power BI to identify risk patterns and support better decision-making.
-
+This project presents an interactive Power BI dashboard that analyzes customer credit risk using demographic, financial, and loan-related data. The dashboard helps identify default patterns, evaluate loan performance, and support data-driven lending decisions.
 ## Tools Used
 - Power BI
 - Microsoft Excel
