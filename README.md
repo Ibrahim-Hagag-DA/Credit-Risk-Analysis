@@ -36,15 +36,25 @@ It includes:
 
 ##  Key Insights
 - The overall loan default rate is **22%**.
-- Applicants with **Loan Grade G** have the highest default rate (98%).
+- Applicants with lower loan grades (especially Grade G) exhibit significantly higher default rates, indicating increased lending risk.
 - Customers with a previous default history are more likely to default again.
 - Debt Consolidation loans show the highest default rate among loan purposes.
 - Higher loan grades are associated with larger average loan amounts.
 
  ##  Dashboard Preview
 ![Credit Risk Dashboard](dashboard_preview.png)
+
+##  Skills Demonstrated
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+- DAX Measures
+- Business Intelligence
+- Dashboard Design
+- Data Storytelling
+  
 ## Files Included
 
-- `Credit_Risk_Analysis.pbix` – Interactive Power BI dashboard.
-- `Credit_Risk_Dataset` – Source dataset used for analysis.
-- `dashboard_preview.png` – Dashboard screenshot.
+- 📊  `Credit_Risk_Analysis.pbix` – Interactive Power BI dashboard.
+- 📄 `Credit_Risk_Dataset` – Source dataset used for analysis.
+- 🖼️ `dashboard_preview.png` – Dashboard screenshot.
